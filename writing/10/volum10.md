@@ -93,7 +93,7 @@ fullstops
 ### topic 1
 <img src="./TEST4/1.png">
 
-Salmon fish is more than a adorable dish for human. Along their life they've been traveling around for a really long journey instinctively, taught by mother nature.
+>Salmon fish is more than a adorable dish for human. Along their life they've been traveling around for a really long journey instinctively, taught by mother nature.
 Salmon fish is raised under seeds, among the small stones. That's where they have been used for generations, where the mature ones come back to. Usually it's upper stream of a river so the flow is slow and peace. Little salmon fishes come out from the eggs and stay there for around five to six month so they can grow. During this  childhood time they are actually very small, around 3 to 8cm and are called "fry".
 When they grow up, they find themselves bigger and settling along the river to the fast flow lower part, where they get more space and nutrition. This time can be considered as teenager time, for about four years, finally they are over 10cm and are called "smoft".
 When salmon fishes are mature, they will head for the open sea to become a sea animal. In the ocean the salmon fishes are about to stay for approximately 5 year to become an "adult salmon", and their size varies from 70 to 76cm. The adult fish will then swim back to the birth place to lay eggs and finally die there, leaving the offsprings where the parents used to grow up. And that the life cycle of a salmon.
@@ -127,7 +127,7 @@ $4$ 这一段要对比 题目的 要求 3 distinct physical stages as it grows t
 ### topic 2
 <img src="./TEST4/2.png">
 
-When it comes to museum, I really have a clear impression that before 4th grade, all the museum charges for an entrance fee, including the public ones. But one day around 2010, all the public museum in China stopped to sell tickets, which means they are free. Admissions are acquired by ID registration. This thing has shocked me ever because I was a great museum fan. As a kid then, I'm also keen on collecting the tickets of different museums, which are so sophisticated and well-designed and can actually be used as a mail card.此处 明信片 存疑 which museums serve no more since they get free.
+>When it comes to museum, I really have a clear impression that before 4th grade, all the museum charges for an entrance fee, including the public ones. But one day around 2010, all the public museum in China stopped to sell tickets, which means they are free. Admissions are acquired by ID registration. This thing has shocked me ever because I was a great museum fan. As a kid then, I'm also keen on collecting the tickets of different museums, which are so sophisticated and well-designed and can actually be used as a mail card.此处 明信片 存疑 which museums serve no more since they get free.
 So above I'm talking about the disadvantages of museums charge for free in my childhood. The beautiful ticket thing also means more. The service and attitude of the employees can be also deducted, and what's more, is truly happening. Also the number of people. Once there were small amount of people who paid to really come to appreciate the legacy and precious treasure of history, but now crowds of noisy people come, maybe only desiring the air-conditioning. More people take pictures with the flash light on, which is prohibited. However, few employees now would bother to say that because it's almost impossible to persuade crowds and crowds of people.
 When the ticket is free of charge, there comes other stuff to compensate. That's what Oscar Wilde once said the price that you always pay. Not only the exhibitions stopped the monthly change, but it's also noticeable that those free museum are moving out the exhibition room for selling souvenir, coffee and even food, which might be too much for me now even if I'm no longer a museum fan. 
 In my opinion, museums should charge people than making it free. Though making museum a public space is a good idea in many aspects, I still think that if it can charge only a very small amount of money, the management can be improved by a huge step.
@@ -135,3 +135,6 @@ In my opinion, museums should charge people than making it free. Though making m
 ### ans to 2 
 
 <img src="./TEST4/ans2.png">
+
+### comment on 2
+> postcards
