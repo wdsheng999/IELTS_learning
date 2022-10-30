@@ -18,3 +18,6 @@ elude the law; elude payment;
 ensue 紧接着发生  what will ensue from this
 obfuscate 使得模糊 使困惑 
 aspersand &符号的名字
+
+tentative 实验性的 暂时的 犹豫的 I'm intent on tentative retention of potential patents. tain ten tin == hold 拿住 contain entertain detain maintain pertain odtain tanabnle tanacious tenure tenancy continuous impertinet
+
