@@ -16,3 +16,10 @@ Part 3：一般5分钟。Part II考完马上进入Part 3，考官可能会问你
 [markteacher](https://markteacher.com/)
 
 [ielts-up](https://ielts-up.com/reading/ielts-reading-test.html)
+
+
+## 词汇 
+[在这个](./word.md)
+另外在utools里安装单词插件 边打字边背单词 
+插件名: 英语单词肌肉打字记忆训练 
+插件改动源自：https://github.com/Kaiyiwing/qwerty-learner
