@@ -163,14 +163,64 @@ para1  1 better preservation for the artifacts 2 keep the museum a pure place li
 |employment|money|        经济
 |culture|fun|             文化
 
-#### 第一题
+#### 第一题🍺
 >A hundred years ago,many people thought that the human race was improving in every area of life.Nowadays people are less certain about this.In what areas has the human race made important progress?In what areas do we still need to make progress?
 
 抽象的话题-->12条线索进行具体化
 progress: technology health safety efficiency fun 
 issue: safety environment health money culture
 
-#### 第二题
+#### 第二题🍕
 剑 著名难题
 >Some people believe that there should be fixed punishments for each type of crime. Others,however,think that the circumstances of a crime,and the motivation for committing it,should always be taken into account.Discuss both these views and give your own opinion
+
+看到复杂的话题不必紧张 记得考核的要求是准确合理的表达而不是过度的追求哲理 扣题的素材就是好素材
+从效率的角度出发 fixed punishment 好处很多 
+>improve the efficiency of the court process
+deter the criminals
+reduce the lawsuits costs
+
+从权责的角度出发 烤炉罪犯的处境 circumstances and motivation的好处如下 可以写在让步段
+
+>权力: respect the civil right of criminals
+责任: more responsible judgement and more convincing
+
+使用上面的线索 在难得题目同样可以化解
+
+#### 第三题🍜
+>in some countries, the average weight of people is increasing and their levels of health and fitness are decreasing. What do you think are the causes of these problems and what measures should be taken to solve them?
+
+题目的论点在健康和发展 个人. 可以引申到科技的发展和人的发展上
+mine: 科技的进步伴随着体力劳动的退步. 应当合理的锻炼身体
+对应的解决办法: 
+encourage people to exercise regularly and avoid unhealthy food.
+drive less to work, not only for health
+spend less time on TV or video games
+
+#### 第四题🍟
+>every year several languages die out. Some people think that this is not important because life will be easier if there are fewer languages in the world. To what extent do you agree or disagree with this opinion?
+
+mine: 不支持 culture: relic. 多样性 diversity 
+reduce cultural diversity: cause many traditions to disappear/become distinct 
+mother tone people feel isolated and lonely/frustrated
+支持: 官方给出了一个论点 效率 efficiency 经济
+效率: remove the language barrier /more job opportunities/
+经济: reduce government spending 
+
+无论正反都很好说
+
+#### 第五题🍿
+>many museums charge for admission, while others are free. Do you think the advantages of charging people for admission to museums outweigh the disadvantage?
+
+admission fee/ entrance fee
+
+经济: reduce the burden of taxpayers/ more funds to increase the collections
+就业: creates jobs/improve their servises
+
+权责: local taxpayer feel unfair
+经济: low-income families have few chance to visit
+
+#### 第六题🧂
+>Some people say that the only reason for learning a foreign language is in order to travel to or work in a foreign country. Others say that these are not the only reasons why someone should learn a foreign language. Discuss both these views and give your own opinion
+
 
