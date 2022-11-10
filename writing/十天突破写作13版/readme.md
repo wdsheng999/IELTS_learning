@@ -223,4 +223,79 @@ admission fee/ entrance fee
 #### 第六题🧂
 >Some people say that the only reason for learning a foreign language is in order to travel to or work in a foreign country. Others say that these are not the only reasons why someone should learn a foreign language. Discuss both these views and give your own opinion
 
+去国外的旅行和工作的积极作用可以从效率 权利 环境 乐趣方面
 
+其他积极作用 技能文化 乐趣
+
+#### 第七题🥓
+>In a number of countries, some people think it is necessary to spend large sums of money on constructing new rail way lines for very fas trains between cities. Others believe the money should be spent on improving existing public transport. Discuss both these views and give your own opinion.
+
+支持建设： 效率 健康 就业 
+increase the efficiency of personal and business travel
+help the passengers fell less tired
+construction will create a lot of job opportunities
+
+反对建设：经济 安全 环境
+making the existing public transport safer and more reliable
+may damage the environment
+
+#### 第八题🥩
+In spite of the advances made in agriculture, many people around the world still fo hungry. Why is this case? What can be done about this issue?
+
+report  
+原因： 责任 international aid 环境 natural disasters such as droughts and floods 安全 wars and military conflicts 财务 the gap between the rich and the poor
+解决方案：依次
+
+技能
+效率
+权利
+责任
+环境
+健康
+财务
+文化
+安全
+乐趣
+
+
+## 6️⃣clarity counts 展开支持句
+### 何为好的论述 what is well supported?
+缺乏展开的分论点会被考官判为 lack of development / not well supported
+
+不要把支持据想的太高端了 似是而非的深奥 高雅 曲折 
+下面对着分论点展开一到三句supporting sentences
+
+1. An advantage of going to school at an early age is that children develop faster socially.
+
+
+S: The ability to grow socially is all about the right timing. Kids are developing their personality during mutual connection such as playing games and meeting new friends. 
+
+Model answer:
+1-They make friends and learn how to get on with other children of a similar age.
+2-This is often not possible at home because their brother or sisters are older or younger.
+高分范文的支持句往往都很通俗易懂
+
+2. People are more active in their sixties and seventies than they used to be.
+S:One reason is that the elderly today often have a better health state due to the medical development. Another reason is that the development of internet brings more social occasions for old people.
+
+
+Model answer:
+1-They have time to enjoy their retirement and do activities that they could not do when they were at work.
+2-They can also help to look after their grandchildren, which is a great benefit for working parents.
+
+看穿了语言能力测试的本质 就是要用清晰 正确的语言表达 支持句就不再是拦路虎
+
+### native speakers怎么展开支持句
+展开支持句使全文最能体现实力的real content. 一头雾水的原因是不理解英语国家的议论文写作教学过程。只要明白了native speakers的思考过程 立刻就能明白怎么展开零考官满意的支持句了
+
+why is this true?/分论点为什么成立？ 这么说的理由是什么
+what dose this mean?/分论点这样将的意思是？如何更好的阐述
+
+#### why is this true
+分论点： playing violent video games can cause changes in young people's behavior.
+
+why? the game makes it fun to fight and kill.
+They also teach young people to use violence to solve problems
+As a result, many young people become aggressive towards their teachers classmates and even their parents.
+
+分论点：extreme sports involve high risks.
