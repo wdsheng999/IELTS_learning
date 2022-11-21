@@ -329,3 +329,6 @@ what dose this mean?/分论点这样将的意思是？如何更好的阐述
 请看下面的官方示例
 分论点：Government should encourage the use of public transportation.
 **They** can make public transport more convenient and affordable. Buses, trams and trains are good ways of commuting and getting around. **This means that** more people will use them **if** they are cheaper and more reliable.
+
+
+## 7️⃣ The writing phrase bank
