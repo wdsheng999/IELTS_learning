@@ -291,11 +291,41 @@ Model answer:
 why is this true?/分论点为什么成立？ 这么说的理由是什么
 what dose this mean?/分论点这样将的意思是？如何更好的阐述
 
-#### why is this true
+#### why is this true?
 分论点： playing violent video games can cause changes in young people's behavior.
 
-why? the game makes it fun to fight and kill.
-They also teach young people to use violence to solve problems
-As a result, many young people become aggressive towards their teachers classmates and even their parents.
+1.why? the game makes it fun to fight and kill.
+2.They also teach young people to use violence to solve problems
+3.As a result, many young people become aggressive towards their teachers classmates and even their parents.
 
 分论点：extreme sports involve high risks.
+
+1.for example,bungee jumpers need to jump from very high places.
+2.they may be seriously injured if the equipment does not work well.
+
+分论点：higher taxes should be put on fast food.
+
+1.fast food has underestimated threat for peoples' health. like cigarette, we should tax them in order to warn people about it.
+3.fast food is also a charming food source that people would be addicted to, which can be a reliable and stable tax source for the government.
+
+> 1. the health care system spends a large part of money on health problems caused by fast food.
+> 2. People who have these problems should be responsible for the their own choice of food.
+> 3. the extra taxes that they pay can help to improve the health care system.
+
+#### what does this mean?
+这种方法比上一个问题问的少一些， 但是如果感觉到分论点的概括比较抽象， 可以这样展开
+分论点：school uniforms help to reduce economic and social differences.
+1.they try to make all student feel equal and confident.
+2.Uniforms also reduce the pressure on low-income parents to buy fashionable clothes for their children.
+
+分论点：art skills are not essential skills that most students will need when they  enter the job market. essential skill比较抽象 通过提问可以展开支持句
+1.Most of them will not need to draw or paint at work.
+2.Other skills, such as language, maths and computer skills, can help to prepare them better for their future  careers.
+通过把essential skills具体化来进行支持， 如果完全跟着题目的essential走的话， 很难在较短的篇幅中对这个概念进行清晰的阐述。于是， 这个问题的策略在于利用实例化来对目标进行支持。
+
+### 连接词
+如何使支持局读起来流畅自然， 需要使用连接词 cohesive devices.
+> use a range of cohesive devices appropriately, but not every line needs one.
+请看下面的官方示例
+分论点：Government should encourage the use of public transportation.
+**They** can make public transport more convenient and affordable. Buses, trams and trains are good ways of commuting and getting around. **This means that** more people will use them **if** they are cheaper and more reliable.
