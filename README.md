@@ -27,3 +27,6 @@ Part 3：一般5分钟。Part II考完马上进入Part 3，考官可能会问你
 打字
 https://www.typelit.io/
 名著
+
+## 口语
+oxford word skills -- 60个短单元 适合分散的看
