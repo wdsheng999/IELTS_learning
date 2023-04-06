@@ -18,7 +18,7 @@
  Overall, your essay shows potential, but there is room for improvement. I hope these suggestions will be helpful in refining your writing.
 
 
-```
+
 好的，我会帮你检查语法和措辞。以下是我的建议：
 
 “In the comparision between the hours of housework and the percentage of electrical appliances” 应改为 “In the comparison between the hours spent on housework and the ownership of electrical appliances”.
@@ -35,9 +35,9 @@
 “perhaps caused by energy prise and water shortage” 应改为 “perhaps due to rising energy prices and water shortages”.
 “And we can tell that from common sense” 应改为 “We can also infer from common sense”.
 根据雅思写作评分标准，你的作文大约能得到6分。你的作文结构清晰，观点明确，但是语言表达方面还有一些问题需要改进。希望我的建议能对你有所帮助。😊
-```
 
-```
+
+
 当然可以。以下是一篇符合雅思7.5分以上标准的作文：
 
 The charts illustrate the changes in ownership of electrical appliances and the amount of time spent on housework in households in one country between 1920 and 2019.
@@ -49,4 +49,4 @@ In terms of specific appliances, the refrigerator was the first to be widely own
 In conclusion, the charts show a clear correlation between the increasing ownership of electrical appliances and the decreasing amount of time spent on housework. This suggests that technological advancements have played a significant role in reducing the burden of housework on households.
 
 希望这篇作文能给你一些启发。😊
-```
+
