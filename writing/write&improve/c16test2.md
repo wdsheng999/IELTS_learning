@@ -39,3 +39,45 @@ Finally, the sugar crystals are collected and cooled before being dried. The res
 In conclusion, the diagram provides a detailed overview of the process of manufacturing sugar from sugar cane. It highlights the various stages involved in the process, from growing and harvesting the sugar cane to refining the juice to produce sugar. This process requires not only a significant amount of time but also involves a certain amount of human labor. Overall, this diagram effectively conveys the complexity of the sugar manufacturing process.
 
 ---
+
+## essay2
+
+In their advertising, businesses nowadays usually emphasize that their products are new in some way. 
+Why is this? Do you think it is a positive or negative development? 
+
+---
+
+In the advertising and bussiness field, people usually emphasize the production is new. Here are some reasons for this phenonmenon and in the end I will give my comments also.
+
+One reason is that the new products are usually more powerful. Usually, the new product will have new functions compared to the old generations and what's more, they are often cheaper. For example, for the consuming electionics, thanks to the Morre's law, new products have better performances so in advertising this is a good point to make.
+
+Another reason is that the salesmen wants to play a little trick to attract potential customers. People like to purchase new things. So if you are not decided, a new products probably make you try to reconsider and one result is that after getting to know more details, anyway, you possibly buy it. 
+
+But I don't think that it is a good strategy for advertising now as more and more new stuff keep to rush into people's life. On the one hand, though new products have more functions, it is less an attractive thing if the old ones already meet the need of customers. On the other hand, old but popular product is actually a proof of good quality and decent design. It is not a bad thing for me to have a product of good use though it has been put into market for a long time. There is also a trend of old fashion, so not only something new is fancy, something old can also be.
+
+In conclusion, the trend of promoting new thing is popular for many reasons. But I don't think this is necessary to say it all the tim
+
+---
+
+你的文章写得很好，你提出了一些很好的观点。但是，我注意到你的文章中有一些语法和拼写错误。例如，在第一段中，“bussiness”应该拼写为“business”，“phenonmenon”应该拼写为“phenomenon”。此外，你的文章结构也可以改进。例如，在第二段中，你可以将“Usually, the new product will have new functions compared to the old generations and what’s more, they are often cheaper.”改为“Usually, the new product will have new functions compared to the old generations. What’s more, they are often cheaper.”  Moore's law
+
+总体来说，你的文章内容丰富，但是需要注意语法和拼写错误，并改进文章结构。希望我的建议能对你有所帮助。
+
+---
+
+当然，这是一篇8分的雅思作文示例：
+
+题目：In their advertising, businesses nowadays usually emphasize that their products are new in some way. Why is this? Do you think it is a positive or negative development?
+
+In today’s fast-paced and ever-changing market, businesses often highlight the novelty of their products in advertising. This phenomenon can be attributed to several reasons and has both positive and negative implications.
+
+One reason for this emphasis on novelty is the desire to attract customers and stand out in a crowded market. With the rapid advancement of technology and increasing competition, businesses need to constantly innovate and offer new and improved products to remain relevant. By emphasizing the new features or improvements of their products, businesses can attract the attention of potential customers and differentiate themselves from their competitors.
+
+However, this constant push for novelty can also have negative consequences. It can create a culture of consumerism, where people feel the need to constantly upgrade and replace perfectly functional products with newer versions. This can lead to unnecessary waste and harm the environment.
+
+In conclusion, while the emphasis on novelty in advertising can help businesses attract customers and remain competitive, it can also have negative consequences. It is important for businesses to balance the desire for innovation with responsible and sustainable practices.
+
+希望这篇文章能给你一些启发。但是，请注意，雅思写作评分标准涉及多个方面，所以这只是一个参考，不能保证你的文章也能获得8分。希望我的建议能对你有所帮助。
+
+
+
